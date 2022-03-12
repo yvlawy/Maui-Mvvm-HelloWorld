@@ -24,6 +24,8 @@ remove the backend code.
 
 ## 2. MAUI applications ressources
 
+Here is the list of some MAUI sample applications found on github.
+
 -MAUI HackerNews application:<br>
 https://github.com/brminnick/HackerNews
 
@@ -41,8 +43,6 @@ use nav Shell.<br>
 https://ballardchalmers.com/2022/02/09/net-maui-deep-dive-part-two-building-our-maui-app/<br>
 https://github.com/CliffAgius/.NET-MAUI---Aircraft-Facts-App
 
--MAUI Application example using devExpress components:<br>
-https://community.devexpress.com/blogs/mobile/archive/2021/11/15/stock-market-app-for-net-multi-platform-app-ui-net-maui-part-1.aspx
 
 -MAUI BirdAtlas application:<br>
 last updated on 17 Aug2021<br>
@@ -50,8 +50,11 @@ https://github.com/AppCreativity/BirdAtlas/tree/master/frontend_maui
 
 ## 3. Others MAUI ressources
 
-An interessting page on MAUI:<br>
+An interesting ressource page on MAUI:<br>
 https://github.com/MahmudX/awesome-maui
 
 .NET MAUI doc:<br>
 https://docs.microsoft.com/en-us/dotnet/maui/get-started/first-app?pivots=devices-windows
+
+-MAUI Application example using devExpress components:<br>
+https://community.devexpress.com/blogs/mobile/archive/2021/11/15/stock-market-app-for-net-multi-platform-app-ui-net-maui-part-1.aspx
