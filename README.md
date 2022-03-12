@@ -24,8 +24,7 @@ remove the backend code.
 
 ## 2. MAUI applications ressources
 
--MAUI HackerNews application:
-
+-MAUI HackerNews application:<br>
 https://github.com/brminnick/HackerNews
 
 -MAUI WeatherTwentyOne application:
