@@ -27,41 +27,31 @@ remove the backend code.
 -MAUI HackerNews application:<br>
 https://github.com/brminnick/HackerNews
 
--MAUI WeatherTwentyOne application:
-
+-MAUI WeatherTwentyOne application:<br>
 https://github.com/davidortinau/WeatherTwentyOne
 
--MAUI dotnet-podcasts application:
-
+-MAUI dotnet-podcasts application:<br>
 https://github.com/microsoft/dotnet-podcasts
 
--MAUI TechiesMoneyExchange application:
-
+-MAUI TechiesMoneyExchange application:<br>
 https://github.com/jesulink2514/TechiesMoneyExchange
 
-MAUI Small MAUI application:
-use nav Shell.
-
-https://ballardchalmers.com/2022/02/09/net-maui-deep-dive-part-two-building-our-maui-app/
-
+MAUI Small MAUI application:<br>
+use nav Shell.<br>
+https://ballardchalmers.com/2022/02/09/net-maui-deep-dive-part-two-building-our-maui-app/<br>
 https://github.com/CliffAgius/.NET-MAUI---Aircraft-Facts-App
 
--MAUI Application example using devExpress components:
-
+-MAUI Application example using devExpress components:<br>
 https://community.devexpress.com/blogs/mobile/archive/2021/11/15/stock-market-app-for-net-multi-platform-app-ui-net-maui-part-1.aspx
 
--MAUI BirdAtlas application:
-
-last updated on 17 Aug2021
-
+-MAUI BirdAtlas application:<br>
+last updated on 17 Aug2021<br>
 https://github.com/AppCreativity/BirdAtlas/tree/master/frontend_maui
 
 ## 3. Others MAUI ressources
 
-An interessting page on MAUI
-
+An interessting page on MAUI:<br>
 https://github.com/MahmudX/awesome-maui
 
-.NET MAUI doc:
-
+.NET MAUI doc:<br>
 https://docs.microsoft.com/en-us/dotnet/maui/get-started/first-app?pivots=devices-windows
