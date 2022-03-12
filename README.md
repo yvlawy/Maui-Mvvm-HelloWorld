@@ -22,35 +22,47 @@ bind label and button to the view model.
 remove the backend code.
 
 
-## 2.Resources
+## 2. MAUI applications ressources
 
-MAUI HackerNews application:
+-MAUI HackerNews application:
+
 https://github.com/brminnick/HackerNews
 
-MAUI WeatherTwentyOne application:
+-MAUI WeatherTwentyOne application:
+
 https://github.com/davidortinau/WeatherTwentyOne
 
-MAUI dotnet-podcasts application:
+-MAUI dotnet-podcasts application:
+
 https://github.com/microsoft/dotnet-podcasts
 
-MAUI TechiesMoneyExchange application:
+-MAUI TechiesMoneyExchange application:
+
 https://github.com/jesulink2514/TechiesMoneyExchange
 
 MAUI Small MAUI application:
 use nav Shell.
+
 https://ballardchalmers.com/2022/02/09/net-maui-deep-dive-part-two-building-our-maui-app/
+
 https://github.com/CliffAgius/.NET-MAUI---Aircraft-Facts-App
 
 -MAUI Application example using devExpress components:
+
 https://community.devexpress.com/blogs/mobile/archive/2021/11/15/stock-market-app-for-net-multi-platform-app-ui-net-maui-part-1.aspx
 
-MAUI BirdAtlas application:
-less old, 17 Aug2021
+-MAUI BirdAtlas application:
+
+last updated on 17 Aug2021
+
 https://github.com/AppCreativity/BirdAtlas/tree/master/frontend_maui
 
+## 3. Others MAUI ressources
 
 An interessting page on MAUI
+
 https://github.com/MahmudX/awesome-maui
 
 .NET MAUI doc:
+
 https://docs.microsoft.com/en-us/dotnet/maui/get-started/first-app?pivots=devices-windows
