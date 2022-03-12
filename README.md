@@ -9,29 +9,40 @@ The initial source code is obtained by creating a new MAUI project in Visual Stu
 
 -Move MainPage.xaml in the folder Pages.
 
+-In ViewModels, Create BaseViewModel.cs, MainViewModel.cs.
+
+-Modify Mainpage.xaml:
+link the page to the view model.
+
+bind label and button to the view model.
+
+-Modify MainPage.xaml.cs
+remove the backend code.
+
+
 ## 2.Resources
 
-HackerNews application:
+MAUI HackerNews application:
 https://github.com/brminnick/HackerNews
 
-WeatherTwentyOne application:
+MAUI WeatherTwentyOne application:
 https://github.com/davidortinau/WeatherTwentyOne
 
-dotnet-podcasts application:
+MAUI dotnet-podcasts application:
 https://github.com/microsoft/dotnet-podcasts
 
-TechiesMoneyExchange application:
+MAUI TechiesMoneyExchange application:
 https://github.com/jesulink2514/TechiesMoneyExchange
 
-Small MAUI application:
+MAUI Small MAUI application:
 use nav Shell.
 https://ballardchalmers.com/2022/02/09/net-maui-deep-dive-part-two-building-our-maui-app/
 https://github.com/CliffAgius/.NET-MAUI---Aircraft-Facts-App
 
--Application example using devExpress components:
+-MAUI Application example using devExpress components:
 https://community.devexpress.com/blogs/mobile/archive/2021/11/15/stock-market-app-for-net-multi-platform-app-ui-net-maui-part-1.aspx
 
-BirdAtlas application:
+MAUI BirdAtlas application:
 less old, 17 Aug2021
 https://github.com/AppCreativity/BirdAtlas/tree/master/frontend_maui
 
