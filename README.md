@@ -7,18 +7,18 @@ For now, the current version of MAUI is [preview 13](https://devblogs.microsoft.
 
 ## 1. Steps to transform the project in MVVM
 
--Create folders: Pages, ViewModels.
+-In the project, Create folders: Pages and ViewModels.
 
 -Move MainPage.xaml in the folder Pages.
 
 -In ViewModels, Create BaseViewModel.cs, MainViewModel.cs.
 
--Modify Mainpage.xaml:
+-Modify Mainpage.xaml:<br>
 link the page to the view model.
 
-bind label and button to the view model.
+-Bind label and button to the view model.
 
--Modify MainPage.xaml.cs
+-Modify MainPage.xaml.cs<br>
 remove the backend code.
 
 
