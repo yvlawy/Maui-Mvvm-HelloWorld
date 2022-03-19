@@ -38,6 +38,7 @@ https://github.com/CommunityToolkit/Maui
 Here is the list of some MAUI applications code sample found on github.
 
 - MAUI HackerNews application:<br>
+  Use .NET MAUI Markup Toolkit<br>
 https://github.com/brminnick/HackerNews
 
 - MAUI WeatherTwentyOne application:<br>
