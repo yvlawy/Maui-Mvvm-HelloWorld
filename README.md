@@ -8,70 +8,70 @@ For now, the current version of MAUI is [preview 14](https://devblogs.microsoft.
 
 ## 1. Steps to transform the project in MVVM
 
--In the project, Create folders: Pages and ViewModels.
+- In the project, Create folders: Pages and ViewModels.
 
--Move MainPage.xaml in the folder Pages.
+- Move MainPage.xaml in the folder Pages.
 
--In ViewModels, Create BaseViewModel.cs, MainViewModel.cs.
+- In ViewModels, Create BaseViewModel.cs, MainViewModel.cs.
 
--Modify Mainpage.xaml:<br>
+- Modify Mainpage.xaml:<br>
 link the page to the view model.
 
--Bind label and button to the view model.
+- Bind label and button to the view model.
 
--Modify MainPage.xaml.cs<br>
+- Modify MainPage.xaml.cs<br>
 remove the backend code.
 
 ## 2. MAUI main ressources
 
--.NET Multi-platform App UI documentation<br>
+- .NET Multi-platform App UI documentation<br>
 https://docs.microsoft.com/en-us/dotnet/maui/
 
--MAUI preview 14 annuncing<br>
+- MAUI preview 14 annuncing<br>
 https://devblogs.microsoft.com/dotnet/dotnet-maui-preview-14/#comments
 
 - .NET Community Toolkit 
 https://github.com/CommunityToolkit/dotnet
 
--Announcing .NET Community Toolkit v8.0.0 Preview 1<br>
+- Announcing .NET Community Toolkit v8.0.0 Preview 1<br>
 https://devblogs.microsoft.com/ifdef-windows/announcing-net-community-toolkit-v8-0-0-preview-1/
 
 ## 3. MAUI applications code samples
 
 Here is the list of some MAUI applications code sample found on github.
 
--MAUI HackerNews application:<br>
+- MAUI HackerNews application:<br>
 https://github.com/brminnick/HackerNews
 
--MAUI WeatherTwentyOne application:<br>
+- MAUI WeatherTwentyOne application:<br>
 https://github.com/davidortinau/WeatherTwentyOne
 
--MAUI dotnet-podcasts application:<br>
+- MAUI dotnet-podcasts application:<br>
 https://github.com/microsoft/dotnet-podcasts
 
--MAUI TechiesMoneyExchange application:<br>
+- MAUI TechiesMoneyExchange application:<br>
 https://github.com/jesulink2514/TechiesMoneyExchange
 
-MAUI Small MAUI application:<br>
+- MAUI Small MAUI application:<br>
 use nav Shell.<br>
 https://ballardchalmers.com/2022/02/09/net-maui-deep-dive-part-two-building-our-maui-app/<br>
 https://github.com/CliffAgius/.NET-MAUI---Aircraft-Facts-App
 
--MAUI BirdAtlas application:<br>
+- MAUI BirdAtlas application:<br>
 last updated on 17 Aug2021<br>
 https://github.com/AppCreativity/BirdAtlas/tree/master/frontend_maui
 
--MAUI application code sample using the FlyoutPage Control<br>
+- MAUI application code sample using the FlyoutPage Control<br>
 https://github.com/martinlenart/ADOPXF_L5_FlyoutPage
 
 ## 4. Others MAUI ressources
 
-An interesting ressource page on MAUI:<br>
+- An interesting ressource page on MAUI:<br>
 https://github.com/MahmudX/awesome-maui
 
--synfusion MAUI demos:<br>
+- Syncfusion MAUI demos:<br>
 https://github.com/syncfusion/maui-demos<br>
 https://github.com/syncfusion-content/maui-docs
 
--MAUI Application example using devExpress components:<br>
+- MAUI Application example using devExpress components:<br>
 https://community.devexpress.com/blogs/mobile/archive/2021/11/15/stock-market-app-for-net-multi-platform-app-ui-net-maui-part-1.aspx
