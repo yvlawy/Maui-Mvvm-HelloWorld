@@ -61,6 +61,10 @@ https://github.com/AppCreativity/BirdAtlas/tree/master/frontend_maui
 - MAUI application code sample using the FlyoutPage Control<br>
 https://github.com/martinlenart/ADOPXF_L5_FlyoutPage
 
+- MAUI chat<br>
+A simple chat app using SignalR, MAUI and Blazor
+https://github.com/matt-goldman/maui-chat
+
 - Syncfusion MAUI demos:<br>
 https://github.com/syncfusion/maui-demos<br>
 https://github.com/syncfusion-content/maui-docs
