@@ -69,7 +69,7 @@ https://github.com/AppCreativity/BirdAtlas/tree/master/frontend_maui
 https://github.com/martinlenart/ADOPXF_L5_FlyoutPage
 
 - MAUI chat<br>
-A simple chat app using SignalR, MAUI and Blazor
+A simple chat app using SignalR, MAUI and Blazor<br>
 https://github.com/matt-goldman/maui-chat
 
 - Syncfusion MAUI demos:<br>
@@ -81,10 +81,10 @@ https://community.devexpress.com/blogs/mobile/archive/2021/11/15/stock-market-ap
 
 ## 4. Others MAUI ressources
 
-- An interesting page on MAUI with lot of ressources:<br>
+- An interesting page on MAUI with lot of ressources<br>
 https://github.com/MahmudX/awesome-maui
 
-- Xamarin.Forms vs .NET MAUI
+- Xamarin.Forms vs .NET MAUI<br>
 https://github.com/dotnet/maui/wiki/Xamarin.Forms-vs-.NET-MAUI
 
 - .NET Community Toolkit<br> 
