@@ -33,6 +33,12 @@ https://devblogs.microsoft.com/dotnet/dotnet-maui-preview-14/#comments
 - .NET MAUI Community Toolkit<br>
 https://github.com/CommunityToolkit/Maui
 
+- .NET MAUI Community Toolkit nuget<br>
+https://www.nuget.org/packages/CommunityToolkit.Maui/
+
+- Introducing the .NET MAUI Community Toolkit (Preview)<br>
+https://devblogs.microsoft.com/dotnet/introducing-the-net-maui-community-toolkit-preview/
+
 ## 3. MAUI applications code samples
 
 Here is the list of some MAUI applications code sample found on github.
