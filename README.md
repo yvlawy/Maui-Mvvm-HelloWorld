@@ -30,6 +30,9 @@ https://docs.microsoft.com/en-us/dotnet/maui/
 -MAUI preview 14 annuncing<br>
 https://devblogs.microsoft.com/dotnet/dotnet-maui-preview-14/#comments
 
+- .NET Community Toolkit 
+https://github.com/CommunityToolkit/dotnet
+
 -Announcing .NET Community Toolkit v8.0.0 Preview 1<br>
 https://devblogs.microsoft.com/ifdef-windows/announcing-net-community-toolkit-v8-0-0-preview-1/
 
