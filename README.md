@@ -74,7 +74,7 @@ https://community.devexpress.com/blogs/mobile/archive/2021/11/15/stock-market-ap
 
 ## 4. Others MAUI ressources
 
-- An interesting ressource page on MAUI:<br>
+- An interesting page on MAUI with lot of ressources:<br>
 https://github.com/MahmudX/awesome-maui
 
 - Xamarin.Forms vs .NET MAUI
