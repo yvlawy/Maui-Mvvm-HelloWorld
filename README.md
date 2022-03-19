@@ -15,12 +15,12 @@ For now, the current version of MAUI is [preview 14](https://devblogs.microsoft.
 - In ViewModels, Create BaseViewModel.cs, MainViewModel.cs.
 
 - Modify Mainpage.xaml:<br>
-link the page to the view model.
+Bind the page to the view model.
 
 - Bind label and button to the view model.
 
 - Modify MainPage.xaml.cs<br>
-remove the backend code.
+Remove the backend code.
 
 ## 2. MAUI main ressources
 
@@ -57,12 +57,12 @@ https://github.com/microsoft/dotnet-podcasts
 https://github.com/jesulink2514/TechiesMoneyExchange
 
 - MAUI Small MAUI application:<br>
-use nav Shell.<br>
+Use nav Shell.<br>
 https://ballardchalmers.com/2022/02/09/net-maui-deep-dive-part-two-building-our-maui-app/<br>
 https://github.com/CliffAgius/.NET-MAUI---Aircraft-Facts-App
 
 - MAUI BirdAtlas application:<br>
-last updated on 17 Aug2021<br>
+Last updated on 17 Aug2021<br>
 https://github.com/AppCreativity/BirdAtlas/tree/master/frontend_maui
 
 - MAUI application code sample using the FlyoutPage Control<br>
