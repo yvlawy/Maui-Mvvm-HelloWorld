@@ -30,11 +30,8 @@ https://docs.microsoft.com/en-us/dotnet/maui/
 - MAUI preview 14 annuncing<br>
 https://devblogs.microsoft.com/dotnet/dotnet-maui-preview-14/#comments
 
-- .NET Community Toolkit 
-https://github.com/CommunityToolkit/dotnet
-
-- Announcing .NET Community Toolkit v8.0.0 Preview 1<br>
-https://devblogs.microsoft.com/ifdef-windows/announcing-net-community-toolkit-v8-0-0-preview-1/
+- .NET MAUI Community Toolkit<br>
+https://github.com/CommunityToolkit/Maui
 
 ## 3. MAUI applications code samples
 
@@ -64,14 +61,24 @@ https://github.com/AppCreativity/BirdAtlas/tree/master/frontend_maui
 - MAUI application code sample using the FlyoutPage Control<br>
 https://github.com/martinlenart/ADOPXF_L5_FlyoutPage
 
-## 4. Others MAUI ressources
-
-- An interesting ressource page on MAUI:<br>
-https://github.com/MahmudX/awesome-maui
-
 - Syncfusion MAUI demos:<br>
 https://github.com/syncfusion/maui-demos<br>
 https://github.com/syncfusion-content/maui-docs
 
 - MAUI Application example using devExpress components:<br>
 https://community.devexpress.com/blogs/mobile/archive/2021/11/15/stock-market-app-for-net-multi-platform-app-ui-net-maui-part-1.aspx
+
+## 4. Others MAUI ressources
+
+- An interesting ressource page on MAUI:<br>
+https://github.com/MahmudX/awesome-maui
+
+- Xamarin.Forms vs .NET MAUI
+https://github.com/dotnet/maui/wiki/Xamarin.Forms-vs-.NET-MAUI
+
+- .NET Community Toolkit<br> 
+https://github.com/CommunityToolkit/dotnet
+
+- Announcing .NET Community Toolkit v8.0.0 Preview 1<br>
+https://devblogs.microsoft.com/ifdef-windows/announcing-net-community-toolkit-v8-0-0-preview-1/
+
