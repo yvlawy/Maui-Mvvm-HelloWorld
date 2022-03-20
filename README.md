@@ -22,4 +22,12 @@ Bind the page to the view model.
 - Modify MainPage.xaml.cs<br>
 Remove the backend code.
 
-For more MAUI ressources see: https://github.com/yvlawy/NET-MAUI-Ressources
+## 2. More .NET MAUI ressources
+
+For more MAUI ressources see: 
+
+-https://github.com/MahmudX/awesome-maui
+
+-https://github.com/yvlawy/NET-MAUI-Ressources
+
+
